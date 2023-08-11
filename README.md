@@ -12,7 +12,7 @@ Welcome to the CS:GO Surf Server repository. This solution is tailored for Linux
 
 1. **Windows Environment**: If you're on a Windows environment, replace the sourcemod and metadata files with the Windows compatible versions before proceeding.
 
-2. **Extract Files**: All the files from this repository should be extracted into the `/csgo/` folder of your CS:GO server directory.
+2. **Extract Files**: All the files from this repository should be extracted into the `csgo` folder of your CS:GO server directory.
 
 3. **Add Maps**: Users are required to add their own maps. Ensure to modify the `mapcycle` file accordingly.
 
